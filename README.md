@@ -1,4 +1,4 @@
 # firstgithub-demo
 This is my first github repo.
 <br>
-Author- Barsan Sahu
+Author- Barsan Sahu(GNIT)
